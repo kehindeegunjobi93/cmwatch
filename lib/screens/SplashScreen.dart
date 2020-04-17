@@ -3,6 +3,7 @@ import 'package:cmwatch/screens/auth/Wrapper.dart';
 import 'package:cmwatch/screens/dashboard.dart';
 import 'package:cmwatch/utilities/colors.dart';
 import 'package:firebase_auth/firebase_auth.dart';
+import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
@@ -18,7 +19,7 @@ class _SplashScreenState extends State<SplashScreen> {
   @override
   void initState() {
     super.initState();
-    Timer(Duration(seconds: 3), () {
+    Timer(Duration(seconds: 23), () {
          FirebaseAuth.instance.currentUser().then((res) async {
            if(res != null){
              Navigator.pushReplacement(context,
@@ -86,7 +87,11 @@ class _SplashScreenState extends State<SplashScreen> {
                     left: 10.0,
                     right: 10.0,
                     child:     Container(
-                      child: Icon(Icons.account_circle, size: 80.0, color: Colors.white,
+                      child:
+                      Image.asset(
+                          "assets/images/logo.png",
+                          height: 100,
+                        width: 100,
                       )
                     ),
                   )
