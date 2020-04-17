@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "65121740318",
+    "firebase_url": "https://cmwatch-11ea1.firebaseio.com",
+    "project_id": "cmwatch-11ea1",
+    "storage_bucket": "cmwatch-11ea1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65121740318:android:19a9a36542c749311b300f",
+        "android_client_info": {
+          "package_name": "com.cmwatch.cmwatch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65121740318-0a6q1ko9kr99qnv4v8dbukdglom8irr7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfElkhUzAr3lTcUgB7cR2wITBbKyepAeE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "65121740318-0a6q1ko9kr99qnv4v8dbukdglom8irr7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
