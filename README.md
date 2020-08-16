@@ -1,16 +1,24 @@
-# cmwatch
+# cmwatch app
 
 The cm watch app.
 
-## Getting Started
+## Emergency reporting app with firebase backend
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<table>
+  <tr>
+    <td><img src="https://github.com/kehindeegunjobi93/cmwatch/blob/master/screenshots/Capture.PNG" width=270 height=480></td>
+    <td><img src="https://github.com/kehindeegunjobi93/cmwatch/blob/master/screenshots/Capture1.PNG" width=270 height=480></td>
+    <td><img src="https://github.com/kehindeegunjobi93/cmwatch/blob/master/screenshots/Capture13.PNG" width=270 height=480></td>
+  </tr>
+   <tr>
+    <td><img src="https://github.com/kehindeegunjobi93/cmwatch/blob/master/screenshots/Capture14.PNG" width=270 height=480></td>
+    <td><img src="https://github.com/kehindeegunjobi93/cmwatch/blob/master/screenshots/Capture15.PNG" width=270 height=480></td>
+    <td><img src="https://github.com/kehindeegunjobi93/cmwatch/blob/master/screenshots/Capture16.PNG" width=270 height=480></td>
+  </tr>
+   <tr>
+    <td><img src="https://github.com/kehindeegunjobi93/cmwatch/blob/master/screenshots/Capture2.PNG" width=270 height=480></td>
+    <td><img src="https://github.com/kehindeegunjobi93/cmwatch/blob/master/screenshots/Capture3.PNG" width=270 height=480></td>
+    <td><img src="https://github.com/kehindeegunjobi93/cmwatch/blob/master/screenshots/Capture4.PNG" width=270 height=480></td>
+  </tr>
+ </table>
